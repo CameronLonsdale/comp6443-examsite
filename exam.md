@@ -120,7 +120,8 @@ Submission details in the code repo README.md
 
 The extended Break exam will follow the same structure as the regular break exam except with different classes of vulnerabilities.
  
-**The vulnerability classes** **(tentatively) examined will be the following:**
+**The vulnerability classes examined will be the following:**
+
 XSS
 
 CSRF
